@@ -22,5 +22,5 @@ It supports basic arithmetic operations along with percentage, square, and squar
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/basic-calculator.git
+git clone https://github.com/rohan-reddy05/basic-calculator.git
 cd basic-calculator
