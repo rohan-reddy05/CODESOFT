@@ -15,8 +15,6 @@ It supports basic arithmetic operations along with percentage, square, and squar
 
 ---
 
-## 📸 Demo
-![Calculator Screenshot](https://via.placeholder.com/600x400?text=Calculator+Demo)
 
 ---
 
